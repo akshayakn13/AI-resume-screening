@@ -25,6 +25,20 @@ An automated resume screening system built using n8n and OpenAI that analyzes up
 
 Resume Upload → PDF Extraction → AI Analysis → JSON Parsing → Google Sheets → Email Report
 
+## Screenshots
+
+### n8n Workflow
+
+![Workflow](screenshots/workflow.png)
+
+### Google Sheets Database
+
+![Google Sheets](screenshots/sheets.png)
+
+### Email Report
+
+![Email Report](screenshots/email-report.png)
+
 ## Use Cases
 
 - HR Recruitment Automation
