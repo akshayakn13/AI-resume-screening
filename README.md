@@ -33,11 +33,11 @@ Resume Upload → PDF Extraction → AI Analysis → JSON Parsing → Google She
 
 ### Google Sheets Database
 
-![Google Sheets](screenshots/sheets.png)
+![Google Sheets](screenshots/google_sheet_output.png)
 
 ### Email Report
 
-![Email Report](screenshots/email-report.png)
+![Email Report](screenshots/mail_result.png)
 
 ## Use Cases
 
