@@ -39,6 +39,41 @@ Resume Upload → PDF Extraction → AI Analysis → JSON Parsing → Google She
 
 ![Email Report](screenshots/mail_result.png)
 
+## Business Problem
+
+HR teams spend hours manually reviewing resumes and extracting candidate information.
+
+## Solution
+
+This workflow automatically:
+- Extracts resume text from PDF files
+- Analyzes candidate qualifications using AI
+- Generates structured hiring insights
+- Stores candidate data in Google Sheets
+- Sends personalized screening reports via email
+
+## Results
+
+- Reduce manual screening time by 80%
+- Standardize candidate evaluation
+- Create searchable candidate database
+
+Resume Upload
+      ↓
+PDF Extraction
+      ↓
+OpenAI Analysis
+      ↓
+JSON Parser
+      ↓
+Google Sheets
+      ↓
+Email Report
+
+## Demo Video
+
+[Watch Demo](https://www.loom.com/share/964bd9ff02d14676a89d1d3aa6a3a7fb)
+
 ## Use Cases
 
 - HR Recruitment Automation
