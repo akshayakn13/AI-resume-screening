@@ -29,7 +29,7 @@ Resume Upload → PDF Extraction → AI Analysis → JSON Parsing → Google She
 
 ### n8n Workflow
 
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/resume_workflow.png)
 
 ### Google Sheets Database
 
